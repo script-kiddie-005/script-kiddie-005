@@ -12,10 +12,7 @@
 
 <h3 align="center">Security Tools</h3>
 <p align="center">
-  <img src="./icons/burp-suite.svg.svg" width="40" alt="Burpsuite"/>
-  <img src="./icons/metasploit.svg" width="40" alt="Metasploit"/>
-  <img src="./icons/nmap.svg" width="40" alt="Nmap"/>
-  <img src="./icons/ffuf.svg" width="40" alt="ffuf"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/icons/burp-suite.svg" width="40">
 </p>
 
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
