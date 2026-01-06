@@ -12,8 +12,10 @@
 
 <h3 align="center">Security Tools</h3>
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=Burp Suite"/>
+  <img src="./icons/burp.svg" width="40"/>
+  <img src="./icons/wireshark.svg" width="40"/>
+  <img src="./icons/nmap.svg" width="40"/>
+  <img src="./icons/owasp.svg" width="40"/>
 </p>
 
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
