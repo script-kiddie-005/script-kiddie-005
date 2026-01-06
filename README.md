@@ -3,10 +3,8 @@
     src="https://github.com/script-kiddie-005/script-kiddie-005/blob/main/Network-Pen-Testing.jpg?raw=true" width="1000" height="300">
 </p>
 
-<h2 align="center">
-  
-## Welcome. Assume nothing works as intended. 👋
-</h2>
+<h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
+<p align="center">- 🌱 I’m currently learning - API PT</p>
 <!--
 **script-kiddie-005/script-kiddie-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning - API PT
+
