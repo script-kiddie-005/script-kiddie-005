@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/script-kiddie-005/script-kiddie-005/blob/main/Network-Pen-Testing.jpg?raw=true" width="700" height="300">
+    src="https://github.com/script-kiddie-005/script-kiddie-005/blob/main/Network-Pen-Testing.jpg?raw=true" width="1000" height="300">
 </p>
 
 ## Welcome. Assume nothing works as intended. 👋
