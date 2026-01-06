@@ -7,12 +7,12 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,c"/>
+    src="https://skillicons.dev/icons?i=c,python"/>
 </p>
 
 <h3 align="center">Security Tools</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/script-kiddie-005/script-kiddie-005/master/icons/burp-suite.svg" width="40">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
 </p>
 
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
