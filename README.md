@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/script-kiddie-005/script-kiddie-005/blob/main/CS_img.jpeg?raw=true">
+    src="https://github.com/script-kiddie-005/script-kiddie-005/blob/main/CS_img.jpeg?raw=true" width=1000 height=200>
 </p>
 
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
