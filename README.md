@@ -6,15 +6,11 @@
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
 <p align="center">- 🌱 I’m currently learning - API PT</p>
 
-<h3 align="center>Languages</h3>
-  <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,c"/>
-  </p>
 
 <h3 align="center">Security Tools</h3>
 <p align="center">
-  Burp Suite . OWASP ZAP . Nmap . ffuf
+  <img
+    src="https://skillicons.dev/icons?i=python,c"/>
 </p>
 
 <!--
