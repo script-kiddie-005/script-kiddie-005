@@ -12,7 +12,7 @@
 
 <h3 align="center">Security Tools</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/script-kiddie-005/script-kiddie-005/main/icons/burp-suite.svg" width="40">
+  <img src="https://raw.githubusercontent.com/script-kiddie-005/script-kiddie-005/master/icons/burp-suite.svg" width="40">
 </p>
 
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
