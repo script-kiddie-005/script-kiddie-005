@@ -6,7 +6,7 @@
 
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
 
-
+<!--
 <h3 align="center">Languages</h3>
 <p align="center">
   <img
@@ -20,6 +20,17 @@
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/ffuf-Fuzzing-2F2F2F?style=for-the-badge">
 </p>
+
+-->
+
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,python"
+    img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+</p>
+
 
 <h3 align="center">OS</h3>
 <p align="center"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
