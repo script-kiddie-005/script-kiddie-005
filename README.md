@@ -6,6 +6,10 @@
 
 <h2 align="center"> Welcome. Assume nothing works as intended. 👋 </h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=script-kiddie-005&label=Profile%20Views&color=2F2F2F&style=flat-square" />
+</p>
+
 <!--
 <h3 align="center">Languages</h3>
 <p align="center">
