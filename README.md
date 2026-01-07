@@ -45,6 +45,11 @@
 <h3 align="Center"> Focus Areas</h5>
 <p align="Center">- Web Application Security</p>
 
+<h3 align="Center"> Contact </h3>
+<p align="Center">Linkedin: https://www.linkedin.com/in/souvik-m-246971229/
+</p>
+
+
 <!--
 <p align="center">- 🌱 I’m currently learning - API PT</p>
 -->
