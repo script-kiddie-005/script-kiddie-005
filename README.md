@@ -37,7 +37,8 @@
 
 
 <h3 align="Left">OS</h3>
-<p align="Left"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
+<p align="Left">- Linux(Kali,Parrot,Ubuntu)</p>
+<p align="Left">- Windows</p>
 
 <h3 align="Left">Methodology</h3>
 
