@@ -24,7 +24,7 @@
 -->
 
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=c,python"/>
@@ -36,32 +36,32 @@
 </p>
 
 
-<h3 align="center">OS</h3>
-<p align="center"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
+<h3 align="Left">OS</h3>
+<p align="Left"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
 
-<h3 align="center">Methodology</h3>
+<h3 align="Left">Methodology</h3>
 
-<h5 align="center">Scope</h5>
-<p align="center">- Testing performed only authorized targets </p>
-<p align="center">- Responsible disclosure mindset </p>
-
-
-<h5 align="center">Testing Approach</h5>
-<p align="center">- Manual-first testing over blind automation </p>
-<p align="center">- Focus on authentication, access control, and logic flaws </p>
-<p align="center">- Validate exploitability before severity rating </p>
-
-<h5 align="center">Reporting</h5>
-<p align="center">- Clear, developer-focused vulnerability reports</p>
-<p align="center">- Impact-driven risk explanation beyond cvss</p>
-<p align="center">- Actionable remediation guidance</p>
+<h5 align="Left">Scope</h5>
+<p align="Left">- Testing performed only authorized targets </p>
+<p align="Left">- Responsible disclosure mindset </p>
 
 
-<h3 align="Center"> Focus Areas</h5>
-<p align="Center">- Web Application Security</p>
+<h5 align="Left">Testing Approach</h5>
+<p align="Left">- Manual-first testing over blind automation </p>
+<p align="Left">- Focus on authentication, access control, and logic flaws </p>
+<p align="Left">- Validate exploitability before severity rating </p>
 
-<h3 align="Center"> Contact</h5>
-<p align="center">
+<h5 align="Left">Reporting</h5>
+<p align="Left">- Clear, developer-focused vulnerability reports</p>
+<p align="Left">- Impact-driven risk explanation beyond cvss</p>
+<p align="Left">- Actionable remediation guidance</p>
+
+
+<h3 align="Left"> Focus Areas</h5>
+<p align="Left">- Web Application Security</p>
+
+<h3 align="Left"> Contact</h5>
+<p align="Left">
   <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/souvik-m-246971229/)/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
