@@ -24,6 +24,12 @@
 <h3 align="center">OS</h3>
 <p align="center"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
 
+<h3 align="Left">Methodology</h3>
+<p align="Left">- Scope </p>
+<p align="Left">- Manual-first testing over blind automation </p>
+<p align="Left">- Focus on authentication, access control, and logic flaws </p>
+<p align="Left">- Validate exploitability before severity rating </p>
+
 <!--
 <p align="center">- 🌱 I’m currently learning - API PT</p>
 -->
