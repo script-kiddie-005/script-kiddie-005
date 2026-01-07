@@ -31,15 +31,15 @@
 <p align="center">- Responsible disclosure mindset </p>
 
 
-<h5 align="Left">Testing Approach</h5>
-<p align="Left">- Manual-first testing over blind automation </p>
-<p align="Left">- Focus on authentication, access control, and logic flaws </p>
-<p align="Left">- Validate exploitability before severity rating </p>
+<h5 align="center">Testing Approach</h5>
+<p align="center">- Manual-first testing over blind automation </p>
+<p align="center">- Focus on authentication, access control, and logic flaws </p>
+<p align="center">- Validate exploitability before severity rating </p>
 
-<h5 align="Left">Reporting</h5>
-<p align="Left">- Clear, developer-focused vulnerability reports</p>
-<p align="Left">- Impact-driven risk explanation beyond cvss</p>
-<p align="Left">- Actionable remediation guidance</p>
+<h5 align="center">Reporting</h5>
+<p align="center">- Clear, developer-focused vulnerability reports</p>
+<p align="center">- Impact-driven risk explanation beyond cvss</p>
+<p align="center">- Actionable remediation guidance</p>
 
 
 <h3 align="Center"> Focus Areas</h5>
