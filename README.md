@@ -42,7 +42,7 @@
 <p align="Left">- Actionable remediation guidance</p>
 
 
-<h5 align="Left"> Focus Areas</h5>
+<h3 align="Center"> Focus Areas</h5>
 <p align="Left">- Web Application Security</p>
 
 <!--
