@@ -28,7 +28,7 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=c,python"
-    img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+    src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
 </p>
 
 
