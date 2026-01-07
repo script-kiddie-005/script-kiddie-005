@@ -45,6 +45,7 @@
 <h3 align="Center"> Focus Areas</h5>
 <p align="Center">- Web Application Security</p>
 
+<h3 align="Center"> Contact</h5>
 <p align="center">
   <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/souvik-m-246971229/)/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
