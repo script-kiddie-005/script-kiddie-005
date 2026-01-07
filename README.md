@@ -43,7 +43,7 @@
 
 
 <h3 align="Center"> Focus Areas</h5>
-<p align="Left">- Web Application Security</p>
+<p align="Center">- Web Application Security</p>
 
 <!--
 <p align="center">- 🌱 I’m currently learning - API PT</p>
