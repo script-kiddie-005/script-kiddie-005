@@ -66,8 +66,8 @@
 <p align="Left">- Web Application Security</p>
 
 <h3 align="Left"> Hands on practice</h3>
+<p align="Left">- Portswigger Web Security Academy</p>
 <p align="Left">- Capture the flag(CTF) challenges focused on web exploitation, authentication flaws, and privilege escalaltion</p>
-
 
 <h3 align="Left"> Contact</h5>
 <p align="Left">
