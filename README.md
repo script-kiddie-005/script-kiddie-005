@@ -24,11 +24,11 @@
 <h3 align="center">OS</h3>
 <p align="center"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
 
-<h3 align="Left">Methodology</h3>
+<h3 align="center">Methodology</h3>
 
-<h5 align="Left">Scope</h5>
-<p align="Left">- Testing performed only authorized targets </p>
-<p align="Left">- Responsible disclosure mindset </p>
+<h5 align="center">Scope</h5>
+<p align="center">- Testing performed only authorized targets </p>
+<p align="center">- Responsible disclosure mindset </p>
 
 
 <h5 align="Left">Testing Approach</h5>
