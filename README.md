@@ -62,8 +62,12 @@
 <p align="Left">- Actionable remediation guidance</p>
 
 
-<h3 align="Left"> Focus Areas</h5>
+<h3 align="Left"> Focus Areas</h3>
 <p align="Left">- Web Application Security</p>
+
+<h3 align="Left"> Hands on practice</h3>
+<p align="Left">- Capture the flag(CTF) challenges focused on web exploitation, authentication flaws, and privilege escalaltion</p>
+
 
 <h3 align="Left"> Contact</h5>
 <p align="Left">
