@@ -25,10 +25,25 @@
 <p align="center"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
 
 <h3 align="Left">Methodology</h3>
-<p align="Left">- Scope </p>
+
+<h5 align="Left">Scope</h5>
+<p align="Left">- Testing performed only authorized targets </p>
+<p align="Left">- Responsible disclosure mindset </p>
+
+
+<h5 align="Left">Testing Approach</h5>
 <p align="Left">- Manual-first testing over blind automation </p>
 <p align="Left">- Focus on authentication, access control, and logic flaws </p>
 <p align="Left">- Validate exploitability before severity rating </p>
+
+<h5 align="Left">Reporting</h5>
+<p align="Left">- Clear, developer-focused vulnerability reports</p>
+<p align="Left">- Impact-driven risk explanation beyond cvss</p>
+<p align="Left">- Actionable remediation guidance</p>
+
+
+<h5 align="Left"> Focus Areas</h5>
+<p align="Left">- Web Application Security</p>
 
 <!--
 <p align="center">- 🌱 I’m currently learning - API PT</p>
