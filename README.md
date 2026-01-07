@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/ffuf-Fuzzing-2F2F2F?style=for-the-badge">
 </p>
 
-<p align="center"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
+<h3 align="center">OS</h3>
+<p align="center">- Linux(Kali,Parrot,Ubuntu) | Windows</p>
 
 <!--
 <p align="center">- 🌱 I’m currently learning - API PT</p>
