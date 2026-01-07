@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center">OS</h3>
-<p align="center">- Linux(Kali,Parrot,Ubuntu) | Windows</p>
+<p align="center"> Linux(Kali,Parrot,Ubuntu) | Windows</p>
 
 <!--
 <p align="center">- 🌱 I’m currently learning - API PT</p>
