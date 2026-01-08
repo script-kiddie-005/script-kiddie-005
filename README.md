@@ -10,35 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=script-kiddie-005&label=Profile%20Views&color=6FCF97&style=flat-square" />
 </p>
 
-<!--
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,python"/>
-</p>
-
-<h3 align="center">Security Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-Framework?style=for-the-badge&color=8B0000&cacheSeconds=1">
-  <img src="https://img.shields.io/badge/Metasploit-Framework-red?style=for-the-badge&v=1">
-</p>
-
--->
-
-
-<!-- <h3 align="center">Languages & Tools</h3>
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,python"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ffuf-Fuzzing-2F2F2F?style=for-the-badge">
-  
-</p>  -->
-
 
 <h3 align="center">Languages & Tools</h3>
   <p align="center">
@@ -47,7 +18,7 @@
 </p>
   <p align="center">
      <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Nmap-2B4F81?style=for-the-badge&logo=nmap&logoColor=white"/>
      <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
      <img src="https://img.shields.io/badge/Metasploit-Framework?style=for-the-badge&color=A61B1B&cacheSeconds=1">
      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&cacheSeconds=1">
