@@ -49,7 +49,7 @@
      <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
      <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
-     <img src="https://img.shields.io/badge/Metasploit-Framework-red?style=for-the-badge&cacheSeconds=1">
+     <img src="https://img.shields.io/badge/Metasploit-Framework?style=for-the-badge&color=A61B1B&cacheSeconds=1">
      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&cacheSeconds=1">
      <img src="https://img.shields.io/badge/ffuf-Fuzzing-2F2F2F?style=for-the-badge">
 </p>
