@@ -21,8 +21,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg">
+  <img src="https://img.shields.io/badge/Metasploit-Framework?style=for-the-badge&color=8B0000&cacheSeconds=1">
+  <img src="https://img.shields.io/badge/Metasploit-Framework-red?style=for-the-badge&v=1">
 </p>
 
 -->
