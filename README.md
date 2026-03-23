@@ -57,12 +57,14 @@
 <p align="Left">- Portswigger Web Security Academy</p>
 <p align="Left">- Capture the flag(CTF) challenges focused on web exploitation, authentication flaws, and privilege escalaltion</p>
 
+<!--
 <h3 align="Left"> Contact</h5>
 <p align="Left">
   <a href="https://www.linkedin.com/in/souvik-mondal-sec" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
 </p>
+-->
 
 
 <!--
